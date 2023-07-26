@@ -114,4 +114,3 @@ GET: /users/by-email - admin
 
 # Authors
 #### Viktoriia Svidovska
-# cinema-app
